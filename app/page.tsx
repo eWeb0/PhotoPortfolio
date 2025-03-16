@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div >
 
-      <main className="text-red-600">
+      <main className="text-red-500">
       <p>Placeholder</p>
       </main>
 
